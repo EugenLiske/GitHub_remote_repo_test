@@ -1,4 +1,4 @@
-git init für den start
+git init // initializing git
 
 git commit -m "your commit message"
 git reset // Staging leeren
