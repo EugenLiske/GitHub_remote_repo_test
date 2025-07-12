@@ -6,3 +6,5 @@ git reset // Staging leeren
 Das ist ein Test
 
 git reset --soft HEAD~1
+
+haha troll
